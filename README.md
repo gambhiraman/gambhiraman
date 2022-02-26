@@ -22,4 +22,7 @@ Hi, I'm Aman Gambhir, a passionate software engineer 👨🏻‍💻 from India.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="Graphql" height="30" style="vertical-align:top; margin:4px">
 </p>
 
-## I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
+
+
+## I love connecting with different people so if you want to say hi, I'll be happy to meet you!
